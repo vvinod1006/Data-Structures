@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/vvinod1006/Data-Structures/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/vvinod1006/Data-Structures/tree/main/0050-powx-n/) | Medium |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -34,4 +35,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/vvinod1006/Data-Structures/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
