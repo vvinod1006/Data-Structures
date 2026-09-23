@@ -18,6 +18,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vvinod1006/Data-Structures/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0137-single-number-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
@@ -27,6 +28,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vvinod1006/Data-Structures/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -41,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/vvinod1006/Data-Structures/tree/main/0050-powx-n/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vvinod1006/Data-Structures/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
