@@ -23,11 +23,13 @@
 | [0137-single-number-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0137-single-number-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vvinod1006/Data-Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/vvinod1006/Data-Structures/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/vvinod1006/Data-Structures/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -53,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vvinod1006/Data-Structures/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
