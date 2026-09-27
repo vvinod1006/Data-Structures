@@ -15,6 +15,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/vvinod1006/Data-Structures/tree/main/0796-rotate-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vvinod1006/Data-Structures/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -59,4 +60,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0219-contains-duplicate-ii/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/vvinod1006/Data-Structures/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
