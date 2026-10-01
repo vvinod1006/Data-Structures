@@ -17,6 +17,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0771-jewels-and-stones](https://github.com/vvinod1006/Data-Structures/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/vvinod1006/Data-Structures/tree/main/0796-rotate-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vvinod1006/Data-Structures/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
@@ -35,6 +36,7 @@
 | [0217-contains-duplicate](https://github.com/vvinod1006/Data-Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
+| [0771-jewels-and-stones](https://github.com/vvinod1006/Data-Structures/tree/main/0771-jewels-and-stones/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
