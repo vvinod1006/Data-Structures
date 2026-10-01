@@ -1,9 +1,9 @@
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
         int count = 0;
-        for(int i=0;i<=stones.length()-1;i++){
-            for( int j=0;j<=jewels.length()-1;j++){
-                if(jewels.charAt(j)==stones.charAt(i)){
+        for(int i=0;i<=jewels.length()-1;i++){
+            for( int j=0;j<=stones.length()-1;j++){
+                if(jewels.charAt(i)==stones.charAt(j)){
                     count++;
                 }
             }    
