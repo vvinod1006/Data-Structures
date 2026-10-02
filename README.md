@@ -30,6 +30,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vvinod1006/Data-Structures/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0896-monotonic-array](https://github.com/vvinod1006/Data-Structures/tree/main/0896-monotonic-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
