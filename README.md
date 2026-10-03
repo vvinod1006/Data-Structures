@@ -22,6 +22,7 @@
 | [0771-jewels-and-stones](https://github.com/vvinod1006/Data-Structures/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/vvinod1006/Data-Structures/tree/main/0796-rotate-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vvinod1006/Data-Structures/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/vvinod1006/Data-Structures/tree/main/0771-jewels-and-stones/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +90,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0343-integer-break](https://github.com/vvinod1006/Data-Structures/tree/main/0343-integer-break/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 <!---LeetCode Topics End-->
