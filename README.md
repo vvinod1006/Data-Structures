@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vvinod1006/Data-Structures/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0896-monotonic-array](https://github.com/vvinod1006/Data-Structures/tree/main/0896-monotonic-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/vvinod1006/Data-Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vvinod1006/Data-Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -102,4 +104,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
