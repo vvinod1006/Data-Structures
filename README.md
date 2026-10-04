@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/vvinod1006/Data-Structures/tree/main/0050-powx-n/) | Medium |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0343-integer-break](https://github.com/vvinod1006/Data-Structures/tree/main/0343-integer-break/) | Medium |
+| [2119-a-number-after-a-double-reversal](https://github.com/vvinod1006/Data-Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vvinod1006/Data-Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
