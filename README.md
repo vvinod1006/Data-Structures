@@ -24,6 +24,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vvinod1006/Data-Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/vvinod1006/Data-Structures/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/vvinod1006/Data-Structures/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/vvinod1006/Data-Structures/tree/main/0856-score-of-parentheses/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/vvinod1006/Data-Structures/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/vvinod1006/Data-Structures/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -112,4 +113,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/vvinod1006/Data-Structures/tree/main/0856-score-of-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/vvinod1006/Data-Structures/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
