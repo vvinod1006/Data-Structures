@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/vvinod1006/Data-Structures/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/vvinod1006/Data-Structures/tree/main/0050-powx-n/) | Medium |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/vvinod1006/Data-Structures/tree/main/0326-power-of-three/) | Easy |
 | [0343-integer-break](https://github.com/vvinod1006/Data-Structures/tree/main/0343-integer-break/) | Medium |
 | [1025-divisor-game](https://github.com/vvinod1006/Data-Structures/tree/main/1025-divisor-game/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/vvinod1006/Data-Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -82,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/vvinod1006/Data-Structures/tree/main/0050-powx-n/) | Medium |
+| [0326-power-of-three](https://github.com/vvinod1006/Data-Structures/tree/main/0326-power-of-three/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
