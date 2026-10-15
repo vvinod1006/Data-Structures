@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vvinod1006/Data-Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0709-to-lower-case](https://github.com/vvinod1006/Data-Structures/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/vvinod1006/Data-Structures/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/vvinod1006/Data-Structures/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/vvinod1006/Data-Structures/tree/main/0856-score-of-parentheses/) | Medium |
