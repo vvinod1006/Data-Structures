@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/vvinod1006/Data-Structures/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/vvinod1006/Data-Structures/tree/main/0050-powx-n/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/vvinod1006/Data-Structures/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/vvinod1006/Data-Structures/tree/main/0326-power-of-three/) | Easy |
 | [0343-integer-break](https://github.com/vvinod1006/Data-Structures/tree/main/0343-integer-break/) | Medium |
