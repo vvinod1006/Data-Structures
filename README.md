@@ -36,6 +36,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/vvinod1006/Data-Structures/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2129-capitalize-the-title](https://github.com/vvinod1006/Data-Structures/tree/main/2129-capitalize-the-title/) | Easy |
+| [2716-minimize-string-length](https://github.com/vvinod1006/Data-Structures/tree/main/2716-minimize-string-length/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@
 | [0771-jewels-and-stones](https://github.com/vvinod1006/Data-Structures/tree/main/0771-jewels-and-stones/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
+| [2716-minimize-string-length](https://github.com/vvinod1006/Data-Structures/tree/main/2716-minimize-string-length/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
