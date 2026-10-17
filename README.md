@@ -13,6 +13,7 @@
 | [1025-divisor-game](https://github.com/vvinod1006/Data-Structures/tree/main/1025-divisor-game/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/vvinod1006/Data-Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vvinod1006/Data-Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vvinod1006/Data-Structures/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vvinod1006/Data-Structures/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vvinod1006/Data-Structures/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
