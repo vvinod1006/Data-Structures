@@ -52,6 +52,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vvinod1006/Data-Structures/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0896-monotonic-array](https://github.com/vvinod1006/Data-Structures/tree/main/0896-monotonic-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vvinod1006/Data-Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vvinod1006/Data-Structures/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vvinod1006/Data-Structures/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -75,6 +76,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vvinod1006/Data-Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vvinod1006/Data-Structures/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vvinod1006/Data-Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/vvinod1006/Data-Structures/tree/main/0389-find-the-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vvinod1006/Data-Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vvinod1006/Data-Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
