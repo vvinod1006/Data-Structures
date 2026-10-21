@@ -32,6 +32,7 @@
 | [0796-rotate-string](https://github.com/vvinod1006/Data-Structures/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/vvinod1006/Data-Structures/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vvinod1006/Data-Structures/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vvinod1006/Data-Structures/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vvinod1006/Data-Structures/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/vvinod1006/Data-Structures/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -131,6 +132,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vvinod1006/Data-Structures/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -163,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vvinod1006/Data-Structures/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vvinod1006/Data-Structures/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
