@@ -17,6 +17,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/vvinod1006/Data-Structures/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/vvinod1006/Data-Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vvinod1006/Data-Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vvinod1006/Data-Structures/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vvinod1006/Data-Structures/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/vvinod1006/Data-Structures/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0075-sort-colors](https://github.com/vvinod1006/Data-Structures/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0137-single-number-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vvinod1006/Data-Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -90,6 +92,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/vvinod1006/Data-Structures/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/vvinod1006/Data-Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
@@ -178,4 +181,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/vvinod1006/Data-Structures/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/vvinod1006/Data-Structures/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
