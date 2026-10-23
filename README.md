@@ -12,6 +12,7 @@
 | [0343-integer-break](https://github.com/vvinod1006/Data-Structures/tree/main/0343-integer-break/) | Medium |
 | [1025-divisor-game](https://github.com/vvinod1006/Data-Structures/tree/main/1025-divisor-game/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/vvinod1006/Data-Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [3099-harshad-number](https://github.com/vvinod1006/Data-Structures/tree/main/3099-harshad-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vvinod1006/Data-Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vvinod1006/Data-Structures/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
