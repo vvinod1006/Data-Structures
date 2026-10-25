@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/vvinod1006/Data-Structures/tree/main/0050-powx-n/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/vvinod1006/Data-Structures/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
+| [0319-bulb-switcher](https://github.com/vvinod1006/Data-Structures/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/vvinod1006/Data-Structures/tree/main/0326-power-of-three/) | Easy |
 | [0343-integer-break](https://github.com/vvinod1006/Data-Structures/tree/main/0343-integer-break/) | Medium |
 | [1025-divisor-game](https://github.com/vvinod1006/Data-Structures/tree/main/1025-divisor-game/) | Easy |
@@ -157,6 +158,7 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0319-bulb-switcher](https://github.com/vvinod1006/Data-Structures/tree/main/0319-bulb-switcher/) | Medium |
 | [1025-divisor-game](https://github.com/vvinod1006/Data-Structures/tree/main/1025-divisor-game/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
