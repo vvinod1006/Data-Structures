@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vvinod1006/Data-Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/vvinod1006/Data-Structures/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/vvinod1006/Data-Structures/tree/main/0389-find-the-difference/) | Easy |
 | [0709-to-lower-case](https://github.com/vvinod1006/Data-Structures/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/vvinod1006/Data-Structures/tree/main/0771-jewels-and-stones/) | Easy |
@@ -68,6 +69,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/vvinod1006/Data-Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/vvinod1006/Data-Structures/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/vvinod1006/Data-Structures/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/vvinod1006/Data-Structures/tree/main/0771-jewels-and-stones/) | Easy |
@@ -99,6 +101,7 @@
 | [0075-sort-colors](https://github.com/vvinod1006/Data-Structures/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/vvinod1006/Data-Structures/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/vvinod1006/Data-Structures/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/vvinod1006/Data-Structures/tree/main/0389-find-the-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
