@@ -28,6 +28,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vvinod1006/Data-Structures/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vvinod1006/Data-Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/vvinod1006/Data-Structures/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/vvinod1006/Data-Structures/tree/main/0389-find-the-difference/) | Easy |
@@ -47,6 +48,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vvinod1006/Data-Structures/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/vvinod1006/Data-Structures/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/vvinod1006/Data-Structures/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/vvinod1006/Data-Structures/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/vvinod1006/Data-Structures/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -207,4 +209,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/vvinod1006/Data-Structures/tree/main/1929-concatenation-of-array/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vvinod1006/Data-Structures/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
