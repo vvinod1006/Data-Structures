@@ -1,40 +1,27 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
+        HashMap<Integer,Integer> map = new HashMap<>();
+        List<Integer> [] bucket = new List[nums.length+1];
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        // Step 1: Count frequency of each number
-        for (int i = 0; i < nums.length; i++) {
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+        for(int x: nums){
+            map.put(x,map.getOrDefault(x,0)+1);
         }
-
-        // Step 2: Store frequencies in an array
-        int arr[] = new int[map.size()];
-        int count = 0;
-
-        for (Integer x : map.values()) {
-            arr[count] = x;
-            count++;
+        for(int key : map.keySet()){
+            int frequency = map.get(key);
+            if(bucket[frequency] == null){
+                bucket[frequency] = new ArrayList<>();
+            }
+            bucket[frequency].add(key);
         }
-
-        // Step 3: Sort the frequency array
-        Arrays.sort(arr);
-
-        // Step 4: Find the top K frequent elements
-        int result[] = new int[k];
-        count = 0;
-
-        for (Integer x : map.keySet()) {
-            if (map.get(x) >= arr[arr.length - k]) {
-                result[count] = x;
-                count++;
-
-                if (count == k) {
-                    break;
+        int [] res = new int[k];
+        int count =0;
+        for(int j=bucket.length-1;j>=0 && count<k;j--){
+            if(bucket[j] != null){
+                for(Integer x:bucket[j]){
+                    res[count++] = x;
                 }
             }
         }
-
-        return result;
+        return res;
     }
 }
