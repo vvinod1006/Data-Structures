@@ -59,6 +59,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/vvinod1006/Data-Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vvinod1006/Data-Structures/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/vvinod1006/Data-Structures/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vvinod1006/Data-Structures/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vvinod1006/Data-Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -217,6 +218,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/vvinod1006/Data-Structures/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/vvinod1006/Data-Structures/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
