@@ -16,6 +16,7 @@
 | [3099-harshad-number](https://github.com/vvinod1006/Data-Structures/tree/main/3099-harshad-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vvinod1006/Data-Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vvinod1006/Data-Structures/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vvinod1006/Data-Structures/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vvinod1006/Data-Structures/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vvinod1006/Data-Structures/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vvinod1006/Data-Structures/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
