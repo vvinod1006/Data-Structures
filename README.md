@@ -39,6 +39,7 @@
 | [0796-rotate-string](https://github.com/vvinod1006/Data-Structures/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/vvinod1006/Data-Structures/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vvinod1006/Data-Structures/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0929-unique-email-addresses](https://github.com/vvinod1006/Data-Structures/tree/main/0929-unique-email-addresses/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vvinod1006/Data-Structures/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vvinod1006/Data-Structures/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -66,6 +67,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vvinod1006/Data-Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0705-design-hashset](https://github.com/vvinod1006/Data-Structures/tree/main/0705-design-hashset/) | Easy |
 | [0896-monotonic-array](https://github.com/vvinod1006/Data-Structures/tree/main/0896-monotonic-array/) | Easy |
+| [0929-unique-email-addresses](https://github.com/vvinod1006/Data-Structures/tree/main/0929-unique-email-addresses/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/vvinod1006/Data-Structures/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vvinod1006/Data-Structures/tree/main/1929-concatenation-of-array/) | Easy |
@@ -87,6 +89,7 @@
 | [0389-find-the-difference](https://github.com/vvinod1006/Data-Structures/tree/main/0389-find-the-difference/) | Easy |
 | [0705-design-hashset](https://github.com/vvinod1006/Data-Structures/tree/main/0705-design-hashset/) | Easy |
 | [0771-jewels-and-stones](https://github.com/vvinod1006/Data-Structures/tree/main/0771-jewels-and-stones/) | Easy |
+| [0929-unique-email-addresses](https://github.com/vvinod1006/Data-Structures/tree/main/0929-unique-email-addresses/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
 | [2716-minimize-string-length](https://github.com/vvinod1006/Data-Structures/tree/main/2716-minimize-string-length/) | Easy |
