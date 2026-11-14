@@ -65,6 +65,7 @@
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vvinod1006/Data-Structures/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vvinod1006/Data-Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/vvinod1006/Data-Structures/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/vvinod1006/Data-Structures/tree/main/0705-design-hashset/) | Easy |
 | [0896-monotonic-array](https://github.com/vvinod1006/Data-Structures/tree/main/0896-monotonic-array/) | Easy |
 | [0929-unique-email-addresses](https://github.com/vvinod1006/Data-Structures/tree/main/0929-unique-email-addresses/) | Easy |
@@ -87,6 +88,7 @@
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vvinod1006/Data-Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/vvinod1006/Data-Structures/tree/main/0389-find-the-difference/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/vvinod1006/Data-Structures/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/vvinod1006/Data-Structures/tree/main/0705-design-hashset/) | Easy |
 | [0771-jewels-and-stones](https://github.com/vvinod1006/Data-Structures/tree/main/0771-jewels-and-stones/) | Easy |
 | [0929-unique-email-addresses](https://github.com/vvinod1006/Data-Structures/tree/main/0929-unique-email-addresses/) | Easy |
@@ -224,6 +226,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/vvinod1006/Data-Structures/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/vvinod1006/Data-Structures/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/vvinod1006/Data-Structures/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
