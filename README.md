@@ -46,6 +46,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/vvinod1006/Data-Structures/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2129-capitalize-the-title](https://github.com/vvinod1006/Data-Structures/tree/main/2129-capitalize-the-title/) | Easy |
 | [2716-minimize-string-length](https://github.com/vvinod1006/Data-Structures/tree/main/2716-minimize-string-length/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/vvinod1006/Data-Structures/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
