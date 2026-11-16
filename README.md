@@ -42,6 +42,7 @@
 | [0929-unique-email-addresses](https://github.com/vvinod1006/Data-Structures/tree/main/0929-unique-email-addresses/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vvinod1006/Data-Structures/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vvinod1006/Data-Structures/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1816-truncate-sentence](https://github.com/vvinod1006/Data-Structures/tree/main/1816-truncate-sentence/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/vvinod1006/Data-Structures/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2129-capitalize-the-title](https://github.com/vvinod1006/Data-Structures/tree/main/2129-capitalize-the-title/) | Easy |
@@ -72,6 +73,7 @@
 | [0929-unique-email-addresses](https://github.com/vvinod1006/Data-Structures/tree/main/0929-unique-email-addresses/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vvinod1006/Data-Structures/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/vvinod1006/Data-Structures/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1816-truncate-sentence](https://github.com/vvinod1006/Data-Structures/tree/main/1816-truncate-sentence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vvinod1006/Data-Structures/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vvinod1006/Data-Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
