@@ -13,6 +13,7 @@
 | [0343-integer-break](https://github.com/vvinod1006/Data-Structures/tree/main/0343-integer-break/) | Medium |
 | [1025-divisor-game](https://github.com/vvinod1006/Data-Structures/tree/main/1025-divisor-game/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/vvinod1006/Data-Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/vvinod1006/Data-Structures/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3099-harshad-number](https://github.com/vvinod1006/Data-Structures/tree/main/3099-harshad-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vvinod1006/Data-Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vvinod1006/Data-Structures/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -100,6 +101,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vvinod1006/Data-Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
 | [2716-minimize-string-length](https://github.com/vvinod1006/Data-Structures/tree/main/2716-minimize-string-length/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/vvinod1006/Data-Structures/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
