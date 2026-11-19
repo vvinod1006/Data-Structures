@@ -114,6 +114,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vvinod1006/Data-Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vvinod1006/Data-Structures/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/vvinod1006/Data-Structures/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vvinod1006/Data-Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
@@ -263,4 +264,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vvinod1006/Data-Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/vvinod1006/Data-Structures/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
