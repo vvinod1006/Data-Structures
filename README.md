@@ -50,6 +50,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/vvinod1006/Data-Structures/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2129-capitalize-the-title](https://github.com/vvinod1006/Data-Structures/tree/main/2129-capitalize-the-title/) | Easy |
 | [2716-minimize-string-length](https://github.com/vvinod1006/Data-Structures/tree/main/2716-minimize-string-length/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/vvinod1006/Data-Structures/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/vvinod1006/Data-Structures/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@
 | [1929-concatenation-of-array](https://github.com/vvinod1006/Data-Structures/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vvinod1006/Data-Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/vvinod1006/Data-Structures/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vvinod1006/Data-Structures/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vvinod1006/Data-Structures/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vvinod1006/Data-Structures/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -104,6 +106,7 @@
 | [2540-minimum-common-value](https://github.com/vvinod1006/Data-Structures/tree/main/2540-minimum-common-value/) | Easy |
 | [2716-minimize-string-length](https://github.com/vvinod1006/Data-Structures/tree/main/2716-minimize-string-length/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/vvinod1006/Data-Structures/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/vvinod1006/Data-Structures/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vvinod1006/Data-Structures/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -244,6 +247,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/vvinod1006/Data-Structures/tree/main/1929-concatenation-of-array/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/vvinod1006/Data-Structures/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
