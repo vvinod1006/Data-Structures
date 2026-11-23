@@ -86,6 +86,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vvinod1006/Data-Structures/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vvinod1006/Data-Structures/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vvinod1006/Data-Structures/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/vvinod1006/Data-Structures/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vvinod1006/Data-Structures/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vvinod1006/Data-Structures/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/vvinod1006/Data-Structures/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -250,6 +251,7 @@
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/vvinod1006/Data-Structures/tree/main/1929-concatenation-of-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vvinod1006/Data-Structures/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/vvinod1006/Data-Structures/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
