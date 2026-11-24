@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/vvinod1006/Data-Structures/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/vvinod1006/Data-Structures/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/vvinod1006/Data-Structures/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/vvinod1006/Data-Structures/tree/main/0343-integer-break/) | Medium |
 | [1025-divisor-game](https://github.com/vvinod1006/Data-Structures/tree/main/1025-divisor-game/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/vvinod1006/Data-Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -130,6 +131,7 @@
 | [0191-number-of-1-bits](https://github.com/vvinod1006/Data-Structures/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/vvinod1006/Data-Structures/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vvinod1006/Data-Structures/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/vvinod1006/Data-Structures/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/vvinod1006/Data-Structures/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -151,6 +153,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/vvinod1006/Data-Structures/tree/main/0050-powx-n/) | Medium |
 | [0326-power-of-three](https://github.com/vvinod1006/Data-Structures/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/vvinod1006/Data-Structures/tree/main/0342-power-of-four/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
